@@ -1,0 +1,20 @@
+C:\Users\sahin\source\repos\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\sahin\source\repos\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\sahin\source\repos\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\sahin\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\sahin\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.Form1.resources
+C:\Users\sahin\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.Properties.Resources.resources
+C:\Users\sahin\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.GenerateResource.cache
+C:\Users\sahin\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\sahin\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\sahin\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\Vize Ödevi\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\Vize Ödevi\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\Vize Ödevi\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\Vize Ödevi\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojAssemblyReference.cache
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\Vize Ödevi\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.Form1.resources
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\Vize Ödevi\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.Properties.Resources.resources
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\Vize Ödevi\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.GenerateResource.cache
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\Vize Ödevi\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\Vize Ödevi\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\Vize Ödevi\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
